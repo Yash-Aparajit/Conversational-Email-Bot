@@ -35,9 +35,9 @@ ConversationalEmailBot/ <br>
 │ <br>
 │└── frontend/  <br>
 |── app.py  <br>
-|
+| <br>
 ├── requirements.txt # Python dependencies  <br>
-|
+| <br>
 ├── README.md # Project overview <br>
 
 ---
@@ -52,8 +52,8 @@ ConversationalEmailBot/ <br>
 └──uvicorn main:app --reload
 
 **### 4. Start the frontend (Streamlit)** <br>
-└──cd frontend
-└──streamlit run app.py
+└──cd frontend  <br>
+└──streamlit run app.py <br>
 
 
 
