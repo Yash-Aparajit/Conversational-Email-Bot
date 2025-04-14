@@ -25,14 +25,14 @@ An email assistant built using **FastAPI**, **Streamlit**, and **Python** that a
 
 ## 📂 Project Structure
 
-ConversationalEmailBot/ 
+ConversationalEmailBot/ <br>
 │ 
 |└── backend/ <br>
 ├── main.py <br>
 ├── ai.py <br>
 ├── models.py <br>
 ├── database.py <br>
-│ 
+│ <br>
 │└── frontend/  <br>
 |── app.py  <br>
 |
@@ -57,10 +57,10 @@ ConversationalEmailBot/
 
 
 
-👤 Author
-Yash Aparajit
-AI/ML Engineer
-LinkedIn: linkedin.com/in/yashaparajit
+👤 Author <br>
+Yash Aparajit <br>
+AI/ML Engineer <br>
+LinkedIn: linkedin.com/in/yashaparajit <br>
 
 
 
