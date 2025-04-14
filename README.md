@@ -36,21 +36,21 @@ Install dependencies, then:
 
 ## Folder Structure 📁
 
-ConversationalEmailBot/ 
-│ └── backend/ 
-├── main.py  
-├── ai.py 
-├── models.py  
-├── config.py 
-│ 
-├── requirements.txt 
-├── README.md 
-│ └── frontend/ 
-└── app.py 
+ConversationalEmailBot/ <br>
+│ └── backend/ <br>
+├── main.py  <br>
+├── ai.py <br>
+├── models.py <br> 
+├── config.py <br>
+│ <br>
+├── requirements.txt <br> 
+├── README.md <br>
+│ └── frontend/ <br>
+└── app.py <br>
 
 ---
 
-👤 Author
-Yash Aparajit
-AI/ML Engineer
-LinkedIn: linkedin.com/in/yashaparajit
+👤 Author <br>
+Yash Aparajit <br>
+AI/ML Engineer <br>
+LinkedIn: linkedin.com/in/yashaparajit <br>
