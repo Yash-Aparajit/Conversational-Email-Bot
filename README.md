@@ -27,18 +27,18 @@ An email assistant built using **FastAPI**, **Streamlit**, and **Python** that a
 
 ConversationalEmailBot/ 
 │ 
-|└── backend/ 
-├── main.py
-├── ai.py 
-├── models.py 
-├── database.py
+|└── backend/ <br>
+├── main.py <br>
+├── ai.py <br>
+├── models.py <br>
+├── database.py <br>
 │ 
-│└── frontend/ 
-|── app.py 
+│└── frontend/  <br>
+|── app.py  <br>
 |
-├── requirements.txt # Python dependencies 
+├── requirements.txt # Python dependencies  <br>
 |
-├── README.md # Project overview 
+├── README.md # Project overview <br>
 
 ---
 
@@ -48,10 +48,10 @@ ConversationalEmailBot/
 
 **### 2. Install dependencies**
 
-**### 3. Start the backend (FastAPI)**
+**### 3. Start the backend (FastAPI)** <br>
 └──uvicorn main:app --reload
 
-**### 4. Start the frontend (Streamlit)**
+**### 4. Start the frontend (Streamlit)** <br>
 └──cd frontend
 └──streamlit run app.py
 
