@@ -91,3 +91,4 @@ with st.form("search_form"):
                     st.markdown("---")
         else: 
             st.error("Failed to fetch emails.")
+
